@@ -1,0 +1,11 @@
+C:\Users\lauta\OneDrive\Desktop\Proyectos\PruebaTecnicaApiVoIPGroup\PruebaTecnicaApi\PruebaTecnicaServices\bin\Debug\net6.0\PruebaTecnicaServices.deps.json
+C:\Users\lauta\OneDrive\Desktop\Proyectos\PruebaTecnicaApiVoIPGroup\PruebaTecnicaApi\PruebaTecnicaServices\bin\Debug\net6.0\PruebaTecnicaServices.dll
+C:\Users\lauta\OneDrive\Desktop\Proyectos\PruebaTecnicaApiVoIPGroup\PruebaTecnicaApi\PruebaTecnicaServices\bin\Debug\net6.0\PruebaTecnicaServices.pdb
+C:\Users\lauta\OneDrive\Desktop\Proyectos\PruebaTecnicaApiVoIPGroup\PruebaTecnicaApi\PruebaTecnicaServices\obj\Debug\net6.0\PruebaTecnicaServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\OneDrive\Desktop\Proyectos\PruebaTecnicaApiVoIPGroup\PruebaTecnicaApi\PruebaTecnicaServices\obj\Debug\net6.0\PruebaTecnicaServices.AssemblyInfoInputs.cache
+C:\Users\lauta\OneDrive\Desktop\Proyectos\PruebaTecnicaApiVoIPGroup\PruebaTecnicaApi\PruebaTecnicaServices\obj\Debug\net6.0\PruebaTecnicaServices.AssemblyInfo.cs
+C:\Users\lauta\OneDrive\Desktop\Proyectos\PruebaTecnicaApiVoIPGroup\PruebaTecnicaApi\PruebaTecnicaServices\obj\Debug\net6.0\PruebaTecnicaServices.csproj.CoreCompileInputs.cache
+C:\Users\lauta\OneDrive\Desktop\Proyectos\PruebaTecnicaApiVoIPGroup\PruebaTecnicaApi\PruebaTecnicaServices\obj\Debug\net6.0\PruebaTecnicaServices.dll
+C:\Users\lauta\OneDrive\Desktop\Proyectos\PruebaTecnicaApiVoIPGroup\PruebaTecnicaApi\PruebaTecnicaServices\obj\Debug\net6.0\refint\PruebaTecnicaServices.dll
+C:\Users\lauta\OneDrive\Desktop\Proyectos\PruebaTecnicaApiVoIPGroup\PruebaTecnicaApi\PruebaTecnicaServices\obj\Debug\net6.0\PruebaTecnicaServices.pdb
+C:\Users\lauta\OneDrive\Desktop\Proyectos\PruebaTecnicaApiVoIPGroup\PruebaTecnicaApi\PruebaTecnicaServices\obj\Debug\net6.0\ref\PruebaTecnicaServices.dll
